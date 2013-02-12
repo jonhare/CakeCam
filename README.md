@@ -14,7 +14,8 @@ Add target/boardcam-1.0-SNAPSHOT-jar-with-dependencies.jar to build path.
 
 
 
-## Dependecies (not yet handled by MVN)
+## Dependencies (not yet handled by MVN)
+You will need to download this and add it to your build path
 twitter4j-core-2.2.6.jar
 
 
