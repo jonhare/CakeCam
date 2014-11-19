@@ -1,8 +1,0 @@
-#This is a list of accepted QR codes - feel free to add your own!
-#Place this file in /tmp/CakeCam
-cake
-pizza
-tray of sandwiches
-plate of biscuits
-quiche
-tray of canapes
